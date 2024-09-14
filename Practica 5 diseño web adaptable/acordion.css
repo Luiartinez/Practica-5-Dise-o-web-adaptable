@@ -1,0 +1,16 @@
+.accordion-button {
+    background-color: rgb(68, 245, 245);
+    color: white;
+    border-radius: 0.25rem;
+}
+
+.accordion-button:not(.collapse) {
+    background-color: rgb(0, 219, 91);
+    color: white;
+}
+
+.accordion-body {
+    background-color: #bbd1ff;
+    border: 1px solid #ddd;
+    border-radius: 0.25rem;
+}
